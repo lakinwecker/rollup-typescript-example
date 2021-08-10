@@ -1,0 +1,18 @@
+{
+  "name": "trollup",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rollup --config"
+  },
+  "dependencies": {
+    "rollup": "^2.56.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.2.5",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
